@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character y="250" sprite="daveSplitathon" icon="dave" color="#0F5FFF">
+	<anim name="singDOWN" anim="d"/>
+	<anim name="idle" anim="i" loop="true"/>
+	<anim name="singLEFT" anim="l"/>
+	<anim name="singRIGHT" anim="r"/>
+	<anim name="singUP" anim="u"/>
+</character>

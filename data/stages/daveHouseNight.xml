@@ -1,0 +1,23 @@
+<!DOCTYPE codename-engine-stage>
+<stage startCamPosX="1000" startCamPosY="600" folder="/" zoom="0.9" name="daveHouseNight">
+
+<sprite x="-600" scroll="0.9" sprite="dave/daveBgAssets" y="-200" name="bg">
+    <anim name="idle" anim="sky_night" loop="false"/>
+</sprite>
+
+<sprite x="-225" sprite="dave/daveBgAssets" y="-125" name="stageHills" scale="1.25" updateHitbox="true">
+    <anim name="idle" anim="hills_night" loop="false"/>
+</sprite>
+
+<sprite x="-225" sprite="dave/daveBgAssets" y="-125" name="gate" scale="1.2" scroll="0.925" updateHitbox="true">
+    <anim name="idle" anim="gate_night" loop="false"/>
+</sprite>
+
+<sprite x="-225" sprite="dave/daveBgAssets" y="-125" name="stageFront" scale="1.2" scroll="0.9" updateHitbox="true">
+    <anim name="idle" anim="grass_night" loop="false"/>
+</sprite>
+
+<girlfriend/>
+<dad/>
+<boyfriend/>
+</stage>

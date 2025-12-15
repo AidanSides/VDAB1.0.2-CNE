@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character y="400" sprite="bambiRemake" icon="bambi" color="#0CB500">
+	<anim name="idle" anim="idle "/>
+	<anim name="singDOWN" anim="down" y="-17"/>
+	<anim name="singRIGHT" anim="right" y="20"/>
+	<anim name="singLEFT" anim="left" x="-10" y="-2"/>
+	<anim name="singUP" anim="up" x="-6" y="53"/>
+</character>

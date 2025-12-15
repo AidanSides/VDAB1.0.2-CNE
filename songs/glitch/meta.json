@@ -1,0 +1,17 @@
+{
+	"color": "#00B515",
+	"customValues": {},
+	"opponentModeAllowed": false,
+	"icon": "bambi-stupid",
+	"difficulties": [
+		"Easy",
+		"Normal",
+		"Hard"
+	],
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "Glitch",
+	"beatsPerMeasure": 4,
+	"needsVoices": true,
+	"bpm": 160
+}

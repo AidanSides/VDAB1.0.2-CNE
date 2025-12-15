@@ -1,0 +1,35 @@
+<!DOCTYPE codename-engine-stage>
+<stage startCamPosX="1000" startCamPosY="600" folder="otherShit/" zoom="0.9" name="bambiFarmNight">
+
+<sprite x="-600" scroll="0.9" sprite="daveBgAssets" y="-200" name="bg" type="loop">
+    <anim name="idle" anim="sky_night0000" loop="false"/>
+</sprite>
+
+<sprite x="-600" updateHitbox="true" scroll="0.7" sprite="bambiFarm" y="-100" scale="0.85" name="flatgrass" color="#878787" type="loop">
+    <anim name="idle" anim="gm_flatgrass" loop="false"/>
+</sprite>
+
+<sprite x="-600" updateHitbox="true" scroll="0.7" sprite="bambiFarm" y="-75" scale="0.8333333333333333" name="hills" color="#878787" type="loop">
+    <anim name="idle" anim="background" loop="false"/>
+</sprite>
+
+<sprite x="-600" scroll="0.9" sprite="bambiFarm" y="-200" name="farm" color="#878787" type="loop">
+    <anim name="idle" anim="farm" loop="false"/>
+</sprite>
+
+<sprite x="-325" updateHitbox="true" scroll="0.9" sprite="bambiFarm" y="40" scale="0.75" name="corn" color="#878787" type="loop">
+    <anim name="idle" anim="corn" loop="false"/>
+</sprite>
+
+<sprite x="-600" scroll="0.9" sprite="bambiFarm" y="-200" name="sign" color="#878787" type="loop">
+    <anim name="idle" anim="Sign" loop="false"/>
+</sprite>
+
+<sprite x="-600" sprite="bambiFarm" y="-200" name="foreground" color="#878787" type="loop">
+    <anim name="idle" anim="foreground" loop="false"/>
+</sprite>
+
+<girlfriend/>
+<dad/>
+<boyfriend/>
+</stage>

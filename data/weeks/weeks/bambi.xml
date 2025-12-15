@@ -1,0 +1,11 @@
+<!DOCTYPE codename-engine-week>
+<week name="MR. BAMBI'S FUN CORN MAZE!" chars="bamboi,," sprite="bambi">
+
+<difficulty name="Easy"/>
+<difficulty name="Normal"/>
+<difficulty name="Hard"/>
+
+	<song>Blocked</song>
+	<song>Corn-Theft</song>
+	<song>Maze</song>
+</week>

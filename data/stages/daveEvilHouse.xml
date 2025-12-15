@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-stage>
+<stage startCamPosX="1000" startCamPosY="600" folder="otherShit/" zoom="0.9" name="redsky">
+
+<sprite x="-600" y="-200" scroll="0.9" sprite="redsky" name="bg"/>
+
+<girlfriend/>
+<dad/>
+<boyfriend/>
+</stage>

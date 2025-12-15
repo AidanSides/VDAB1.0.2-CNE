@@ -1,0 +1,4 @@
+<!DOCTYPE codename-engine-week-character>
+<char sprite="menus/storymenu/characters/storyMenuBgs" scale="1" x="170" y="14">
+	<anim name="idle" anim="splitathon" fps="24" loop="true" forced="true"/>
+</char>

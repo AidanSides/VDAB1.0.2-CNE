@@ -1,0 +1,15 @@
+{
+	"color": "#00FFFF",
+	"customValues": {},
+	"opponentModeAllowed": false,
+	"icon": "the-duo",
+	"difficulties": [
+		"Normal"
+	],
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "Splitathon",
+	"beatsPerMeasure": 4,
+	"needsVoices": true,
+	"bpm": 230
+}

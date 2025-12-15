@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character y="400" flipX="true" icon="bambi-stupid" color="#0CB500">
+	<anim name="idle" anim="MARCELLO idle dance" x="-5"/>
+	<anim name="singDOWN" anim="MARCELLO NOTE DOWN" x="-10" y="-50"/>
+	<anim name="singRIGHT" anim="MARCELLO NOTE RIGHT" x="-38" y="-7"/>
+	<anim name="singLEFT" anim="MARCELLO NOTE LEFT" x="12" y="-6"/>
+	<anim name="singUP" anim="MARCELLO NOTE UP"/>
+	<anim name="singUPmiss" anim="MARCELLO MISS UP"/>
+	<anim name="singDOWNmiss" anim="MARCELLO MISS DOWN" x="-10" y="-50"/>
+	<anim name="singLEFTmiss" anim="MARCELLO MISS LEFT" x="12" y="-6"/>
+	<anim name="singRIGHTmiss" anim="MARCELLO MISS RIGHT" x="-38" y="-7"/>
+</character>

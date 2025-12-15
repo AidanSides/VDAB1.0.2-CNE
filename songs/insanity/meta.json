@@ -1,0 +1,18 @@
+{
+	"color": "#4962FF",
+	"customValues": {},
+	"opponentModeAllowed": false,
+	"icon": "dave",
+	"difficulties": [
+		"Easy",
+		"Normal",
+		"Hard",
+		"Unnerfed"
+	],
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "Insanity",
+	"beatsPerMeasure": 4,
+	"needsVoices": true,
+	"bpm": 160
+}

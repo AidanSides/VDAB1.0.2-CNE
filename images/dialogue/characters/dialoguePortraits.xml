@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="dialoguePortraits.png" width="1250" height="1149">
+	<SubTexture name="GF Enter 0000" x="479" y="479" width="273" height="288" rotated="true" frameX="-950" frameY="-170" frameWidth="1494" frameHeight="870"/>
+	<SubTexture name="GF Enter 0001" x="771" y="0" width="273" height="288" rotated="true" frameX="-908" frameY="-170" frameWidth="1494" frameHeight="870"/>
+	<SubTexture name="GF Enter 0002" x="771" y="0" width="273" height="288" rotated="true" frameX="-908" frameY="-170" frameWidth="1494" frameHeight="870"/>
+	<SubTexture name="GF Enter 0003" x="771" y="293" width="273" height="288" rotated="true" frameX="-890" frameY="-170" frameWidth="1494" frameHeight="870"/>
+	<SubTexture name="GF Enter 0004" x="771" y="293" width="273" height="288" rotated="true" frameX="-890" frameY="-170" frameWidth="1494" frameHeight="870"/>
+	<SubTexture name="GF Enter 0005" x="0" y="876" width="288" height="273" frameX="-904" frameY="-170" frameWidth="1494" frameHeight="870"/>
+	<SubTexture name="GF Enter 0006" x="0" y="876" width="288" height="273" frameX="-904" frameY="-170" frameWidth="1494" frameHeight="870"/>
+	<SubTexture name="GF Enter 0007" x="0" y="876" width="288" height="273" frameX="-904" frameY="-170" frameWidth="1494" frameHeight="870"/>
+	<SubTexture name="GF Enter 0008" x="0" y="876" width="288" height="273" frameX="-904" frameY="-170" frameWidth="1494" frameHeight="870"/>
+	<SubTexture name="3D Portrait 0000" x="293" y="876" width="212" height="224" frameX="-133" frameY="-73" frameWidth="996" frameHeight="580"/>
+	<SubTexture name="3D Portrait 0001" x="757" y="586" width="224" height="212" rotated="true" frameX="-145" frameY="-73" frameWidth="996" frameHeight="580"/>
+	<SubTexture name="3D Portrait 0002" x="510" y="772" width="224" height="212" rotated="true" frameX="-162" frameY="-73" frameWidth="996" frameHeight="580"/>
+	<SubTexture name="3D Portrait 0003" x="739" y="803" width="224" height="212" rotated="true" frameX="-171" frameY="-72" frameWidth="996" frameHeight="580"/>
+	<SubTexture name="BF Enter 0000" x="0" y="0" width="474" height="287" frameX="-845" frameY="-163" frameWidth="1494" frameHeight="870"/>
+	<SubTexture name="BF Enter 0001" x="0" y="292" width="474" height="287" frameX="-803" frameY="-163" frameWidth="1494" frameHeight="870"/>
+	<SubTexture name="BF Enter 0002" x="0" y="292" width="474" height="287" frameX="-803" frameY="-163" frameWidth="1494" frameHeight="870"/>
+	<SubTexture name="BF Enter 0003" x="479" y="0" width="287" height="474" rotated="true" frameX="-767" frameY="-163" frameWidth="1494" frameHeight="870"/>
+	<SubTexture name="BF Enter 0004" x="479" y="0" width="287" height="474" rotated="true" frameX="-767" frameY="-163" frameWidth="1494" frameHeight="870"/>
+	<SubTexture name="BF Enter 0005" x="0" y="584" width="474" height="287" frameX="-761" frameY="-163" frameWidth="1494" frameHeight="870"/>
+	<SubTexture name="BF Enter 0006" x="0" y="584" width="474" height="287" frameX="-761" frameY="-163" frameWidth="1494" frameHeight="870"/>
+	<SubTexture name="BF Enter 0007" x="0" y="584" width="474" height="287" frameX="-761" frameY="-163" frameWidth="1494" frameHeight="870"/>
+	<SubTexture name="BF Enter 0008" x="0" y="584" width="474" height="287" frameX="-761" frameY="-163" frameWidth="1494" frameHeight="870"/>
+	<SubTexture name="bambienter 0000" x="1049" y="0" width="201" height="202" rotated="true" frameX="-43" frameY="-104" frameWidth="996" frameHeight="580"/>
+	<SubTexture name="bambienter 0001" x="1049" y="207" width="200" height="202" rotated="true" frameX="-112" frameY="-102" frameWidth="996" frameHeight="580"/>
+	<SubTexture name="bambienter 0002" x="1049" y="414" width="199" height="202" rotated="true" frameX="-147" frameY="-101" frameWidth="996" frameHeight="580"/>
+	<SubTexture name="bambienter 0003" x="986" y="621" width="202" height="200" frameX="-168" frameY="-100" frameWidth="996" frameHeight="580"/>
+	<SubTexture name="dave Portrait 0000" x="510" y="989" width="190" height="157" rotated="true" frameX="-173" frameY="-106" frameWidth="996" frameHeight="580"/>
+	<SubTexture name="dave Portrait 0001" x="510" y="989" width="190" height="157" rotated="true" frameX="-174" frameY="-106" frameWidth="996" frameHeight="580"/>
+	<SubTexture name="dave Portrait 0002" x="968" y="826" width="190" height="157" rotated="true" frameX="-174" frameY="-106" frameWidth="996" frameHeight="580"/>
+	<SubTexture name="dave Portrait 0003" x="968" y="988" width="190" height="157" rotated="true" frameX="-173" frameY="-106" frameWidth="996" frameHeight="580"/>
+</TextureAtlas>

@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-week>
+<week name="DAVE'S FUN RAPPING BATTLE!" chars="daveHouse,," sprite="dave" >
+
+<difficulty name="Easy"/>
+<difficulty name="Normal"/>
+<difficulty name="Hard"/>
+<difficulty name="Unnerfed"/>
+
+	<song>House</song>
+	<song>Insanity</song>
+	<song>Furiosity</song>
+</week>

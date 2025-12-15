@@ -1,0 +1,14 @@
+{
+    "params": [
+        {
+            "name": "Icon",
+            "type": "String",
+            "defaultValue": "bf/icon"
+        },
+        {
+            "name": "Is Player?",
+            "type": "Bool",
+            "defaultValue": false
+        }
+    ]
+}
