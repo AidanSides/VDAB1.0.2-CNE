@@ -1,4 +1,4 @@
-var loopedTimer:FlxTimer;  // Hey! a man has fallen into the river in lego city! and if youre asking why this is here, you shall disappear!  - Nex
+var loopedTimer:FlxTimer;  // vs dave and bambi
 var bgFade:FlxSprite;
 
 function postCreate() {

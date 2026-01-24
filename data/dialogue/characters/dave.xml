@@ -1,4 +1,4 @@
 <!DOCTYPE codename-engine-dialogue-character>
-<character sprite="dialoguePortraits">
-	<anim name="normal-show" anim="dave Portrait 0" fps="24" x="4.4" />
+<character sprite="davePortrait" name="dave" >
+	<anim name="normal-show" anim="dave Portrait 0" fps="24" x="0" y="0" />
 </character>

@@ -1,15 +1,15 @@
 <!DOCTYPE codename-engine-dialogue>
 <dialogue box="default-dave">
 	<!-- All characters -->
-	<char name="dave" char="dave" position="left" />
-	<char name="boyf" char="boyf" position="right" />
+	<char name="dave" position="left" />
+	<char name="bf" position="right" />
 
 	<!-- Lines -->
 	<line char="" changeMusic="DaveDialogue">
 		Here we have Dave, minding his own business...
 	</line>
 
-    <line char="boyf">
+    <line char="bf">
 		beb
 	</line>
 
@@ -21,7 +21,7 @@
 		Oh wait! I saw you guys a couple days ago!
 	</line>
 
-	<line char="boyf">
+	<line char="bf">
 		beep bop
 	</line>
 

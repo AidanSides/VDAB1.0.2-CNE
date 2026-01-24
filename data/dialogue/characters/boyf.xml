@@ -1,4 +1,0 @@
-<!DOCTYPE codename-engine-dialogue-character>
-<character sprite="dialoguePortraits">
-	<anim name="normal-show" anim="BF Enter 0" fps="24" x="4.4" />
-</character>
