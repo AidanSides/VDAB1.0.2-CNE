@@ -1,12 +1,54 @@
-//
-import funkin.backend.utils.WindowUtils;
+import funkin.backend.system.framerate.Framerate;
+import openfl.text.TextFormat;
 import lime.graphics.Image;
-import lime.utils.Assets;
+import openfl.text.TextFormat;
+import funkin.backend.utils.NativeAPI;
+import openfl.Lib;
+
+var updateTime:Int = 60;
+var textFormat = new TextFormat("_sans", 12, 0xFFFFFF);
 
 function new() {
-	window.setIcon(Image.fromBytes(Assets.getBytes(Paths.getPath('images/iconOG.png'))));
+    preStateSwitch();
+    NativeAPI.redrawWindowHeader();
 }
 
-function update(elapsed:Float) {
-	if (FlxG.keys.justPressed.F5) FlxG.resetState();
+function preStateSwitch() {
+    if (NativeAPI.hasVersion("Windows 10")) NativeAPI.setDarkMode(Lib.application.window.title, false);
+    Framerate.codenameBuildField.defaultTextFormat = textFormat;
+    Framerate.codenameBuildField.x = 0;
+    Framerate.codenameBuildField.y = 1;
+    Framerate.memoryCounter.visible = false;
+    Framerate.fpsCounter.visible = false;
+
+// yeah this script is just for the custom window icon rn
+    window.setIcon(Image.fromBytes(Assets.getBytes('images/otherShit/iconOG.png')));
+
+}
+
+var currentFPS:Int = 0;
+var timer:Int = 0;
+
+function postUpdate(elapsed) {
+    if (timer % updateTime == 0) {
+        currentFPS = Std.int(Framerate.fpsCounter.lastFPS);
+        if (currentFPS > Options.framerate) currentFPS = Options.framerate;
+    }
+
+    Framerate.codenameBuildField.text = "FPS: " + currentFPS;
+
+    Framerate.codenameBuildField.textColor = 0xFFFFFFFF;
+    if (Framerate.fpsCounter.lastFPS <= Options.framerate / 2)
+		Framerate.codenameBuildField.textColor = 0xFFFF0000;
+
+    timer++;
+}
+
+function destroy() {
+    if (NativeAPI.hasVersion("Windows 10")) {
+        NativeAPI.setDarkMode(Lib.application.window.title, true);
+        NativeAPI.redrawWindowHeader();
+    }
+    Framerate.memoryCounter.visible = true;
+    Framerate.fpsCounter.visible = true;
 }

@@ -2,14 +2,13 @@
 <!--
 Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
 -->
-<TextureAtlas imagePath="daveBgAssets.png" width="5125" height="3568">
-	<SubTexture name="gate0000" x="2565" y="1405" width="1500" height="262" frameX="-0" frameY="-359" frameWidth="1500" frameHeight="900"/>
-	<SubTexture name="gate_night0000" x="2565" y="1672" width="1500" height="262" frameX="-0" frameY="-359" frameWidth="1500" frameHeight="900"/>
-	<SubTexture name="grass0000" x="2565" y="1939" width="1500" height="391" frameX="-0" frameY="-509" frameWidth="1500" frameHeight="900"/>
-	<SubTexture name="grass_night0000" x="2565" y="2335" width="1500" height="391" frameX="-0" frameY="-509" frameWidth="1500" frameHeight="900"/>
-	<SubTexture name="hills0000" x="0" y="2810" width="1500" height="758" frameX="-0" frameY="-142" frameWidth="1500" frameHeight="900"/>
-	<SubTexture name="hills_night0000" x="1505" y="2810" width="1500" height="758" frameX="-0" frameY="-142" frameWidth="1500" frameHeight="900"/>
-	<SubTexture name="redsky0000" x="0" y="0" width="2560" height="1400" frameX="-0" frameY="-0" frameWidth="2560" frameHeight="1400"/>
-	<SubTexture name="sky0000" x="0" y="1405" width="2560" height="1400" frameX="-0" frameY="-0" frameWidth="2560" frameHeight="1400"/>
-	<SubTexture name="sky_night0000" x="2565" y="0" width="2560" height="1400" frameX="-0" frameY="-0" frameWidth="2560" frameHeight="1400"/>
+<TextureAtlas imagePath="daveBgAssets.png" width="4065" height="3566">
+	<SubTexture name="gate0000" x="2564" y="789" width="1500" height="262" frameX="-0" frameY="-359" frameWidth="1500" frameHeight="900"/>
+	<SubTexture name="gate_night0000" x="2564" y="1054" width="1500" height="262" frameX="-0" frameY="-359" frameWidth="1500" frameHeight="900"/>
+	<SubTexture name="grass0000" x="2564" y="1" width="1500" height="391" frameX="-0" frameY="-509" frameWidth="1500" frameHeight="900"/>
+	<SubTexture name="grass_night0000" x="2564" y="395" width="1500" height="391" frameX="-0" frameY="-509" frameWidth="1500" frameHeight="900"/>
+	<SubTexture name="hills0000" x="1" y="2807" width="1500" height="758" frameX="-0" frameY="-142" frameWidth="1500" frameHeight="900"/>
+	<SubTexture name="hills_night0000" x="1504" y="2807" width="1500" height="758" frameX="-0" frameY="-142" frameWidth="1500" frameHeight="900"/>
+	<SubTexture name="sky0000" x="1" y="1" width="2560" height="1400" frameX="-0" frameY="-0" frameWidth="2560" frameHeight="1400"/>
+	<SubTexture name="sky_night0000" x="1" y="1404" width="2560" height="1400" frameX="-0" frameY="-0" frameWidth="2560" frameHeight="1400"/>
 </TextureAtlas>
