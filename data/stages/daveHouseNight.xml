@@ -1,19 +1,19 @@
 <!DOCTYPE codename-engine-stage>
-<stage startCamPosX="1000" startCamPosY="600" folder="otherShit/" zoom="0.9" name="daveHouseNight">
+<stage startCamPosX="800" startCamPosY="600" folder="otherShit/" zoom="0.9" name="daveHouseNight">
 
-<sprite x="-600" scroll="0.9" sprite="daveBgAssets" y="-200" name="bg">
+<sprite x="-600" scroll="0.9" sprite="daveHouse" y="-200" name="bg">
     <anim name="idle" anim="sky_night" loop="false"/>
 </sprite>
 
-<sprite x="-225" sprite="daveBgAssets" y="-125" name="stageHills" scale="1.25" updateHitbox="true">
+<sprite x="-225" sprite="daveHouse" y="-125" name="stageHills" scale="1.25" updateHitbox="true">
     <anim name="idle" anim="hills_night" loop="false"/>
 </sprite>
 
-<sprite x="-225" sprite="daveBgAssets" y="-125" name="gate" scale="1.2" scroll="0.925" updateHitbox="true">
+<sprite x="-225" sprite="daveHouse" y="-125" name="gate" scale="1.2" scroll="0.925" updateHitbox="true">
     <anim name="idle" anim="gate_night" loop="false"/>
 </sprite>
 
-<sprite x="-225" sprite="daveBgAssets" y="-125" name="stageFront" scale="1.2" scroll="0.9" updateHitbox="true">
+<sprite x="-225" sprite="daveHouse" y="-125" name="stageFront" scale="1.2" scroll="0.9" updateHitbox="true">
     <anim name="idle" anim="grass_night" loop="false"/>
 </sprite>
 

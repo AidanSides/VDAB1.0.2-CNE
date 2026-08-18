@@ -1,5 +1,3 @@
-test
-
 house
 insanity
 furiosity
@@ -10,10 +8,7 @@ blocked
 corn-theft
 maze
 
-splitathon
-
 supernovae
 glitch
 
-cheating
-secret
+splitathon

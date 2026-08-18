@@ -1,22 +1,22 @@
 <!DOCTYPE codename-engine-stage>
 <stage startCamPosX="800" startCamPosY="600" folder="otherShit/" zoom="0.9" name="daveHouse">
 
-<sprite x="-600" y="-200" scroll="0.9" type="loop" sprite="daveBgAssets" name="bg">
+<sprite x="-600" y="-200" scroll="0.9" type="loop" sprite="daveHouse" name="bg">
     <anim name="idle" anim="sky0000" loop="false"/>
     
 </sprite>
 
-<sprite x="-225" sprite="daveBgAssets" y="-125" name="stageHills" scale="1.25" updateHitbox="true" type="loop">
+<sprite x="-225" sprite="daveHouse" y="-125" name="stageHills" scale="1.25" updateHitbox="true" type="loop">
     <anim name="idle" anim="hills0000" loop="false"/>
     
 </sprite>
 
-<sprite x="-225" sprite="daveBgAssets" y="-125" name="gate" scale="1.2" scroll="0.925" updateHitbox="true" type="loop">
+<sprite x="-225" sprite="daveHouse" y="-125" name="gate" scale="1.2" scroll="0.925" updateHitbox="true" type="loop">
     <anim name="idle" anim="gate0000" loop="false"/>
     
 </sprite>
 
-<sprite x="-225" sprite="daveBgAssets" y="-125" name="stageFront" scale="1.2" scroll="0.9" updateHitbox="true" type="loop">
+<sprite x="-225" sprite="daveHouse" y="-125" name="stageFront" scale="1.2" scroll="0.9" updateHitbox="true" type="loop">
     <anim name="idle" anim="grass0000" loop="false"/>
     
 </sprite>
