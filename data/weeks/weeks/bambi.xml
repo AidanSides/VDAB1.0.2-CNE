@@ -1,5 +1,5 @@
 <!DOCTYPE codename-engine-week>
-<week name="MR. BAMBI'S FUN CORN MAZE!" chars="bamboi,," sprite="bambi">
+<week name="MR. BAMBI'S FUN CORN MAZE!" chars="bamboi,," sprite="bambi" bgColor="#0094FF">
 
 <difficulty name="Easy"/>
 <difficulty name="Normal"/>

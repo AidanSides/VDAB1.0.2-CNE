@@ -1,5 +1,5 @@
 <!DOCTYPE codename-engine-week>
-<week name="DAVE'S FUN RAPPING BATTLE!" chars="daveHouse,," sprite="dave" >
+<week name="DAVE'S FUN RAPPING BATTLE!" chars="daveHouse,," sprite="dave" bgColor="#0094FF">
 
 <difficulty name="Easy"/>
 <difficulty name="Normal"/>

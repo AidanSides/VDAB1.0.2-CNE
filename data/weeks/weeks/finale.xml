@@ -1,5 +1,5 @@
 <!DOCTYPE codename-engine-week>
-<week name="THE FINALE" chars="finale,," sprite="finale">
+<week name="THE FINALE" chars="finale,," sprite="finale" bgColor="#0094FF">
 
 <difficulty name="Normal"/>
 

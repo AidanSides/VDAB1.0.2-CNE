@@ -1,0 +1,28 @@
+<!DOCTYPE codename-engine-dialogue>
+<dialogue box="default-dave">
+	<!-- All characters -->
+	<char name="dave" position="left" />
+	<char name="bf" position="right" />
+
+	<!-- Lines -->
+	<line char="dave" changeMusic="DaveDialogue">
+		Wow! You're really good at this.
+	</line>
+
+	<line char="bf">
+		skdoo bep
+	</line>
+
+	<line char="dave">
+		Let's go again, don't you think?
+	</line>
+
+	<line char="bf">
+		Beep
+	</line>
+
+    <line char="dave">
+		Alrighty then!
+	</line>
+
+</dialogue>

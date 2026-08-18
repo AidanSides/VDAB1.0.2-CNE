@@ -1,4 +1,4 @@
 <!DOCTYPE codename-engine-dialogue-character>
-<character sprite="boyfriendPortrait" name="bf" scale="0.8" >
-	<anim name="normal-show" anim="BF Enter 0" fps="24" x="1600" y="38" />
+<character sprite="boyfriendPortrait" name="bf" scale="0.65" >
+	<anim name="normal-show" anim="BF Enter 0" fps="24" x="1900" y="250" />
 </character>

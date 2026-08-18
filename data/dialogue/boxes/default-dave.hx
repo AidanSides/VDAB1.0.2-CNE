@@ -8,7 +8,7 @@ function postCreate() {
 	bgFade.alpha = 0;
 	cutscene.insert(0, bgFade);
 
-	loopedTimer = new FlxTimer().start(0.83, function(tmr:FlxTimer)
+	loopedTimer = new FlxTimer().start(0.3, function(tmr:FlxTimer)
 	{
 		bgFade.alpha += (1 / 5) * 0.7;
 		if (bgFade.alpha > 0.7)

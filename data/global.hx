@@ -20,10 +20,6 @@ function preStateSwitch() {
     Framerate.codenameBuildField.y = 1;
     Framerate.memoryCounter.visible = false;
     Framerate.fpsCounter.visible = false;
-
-// yeah this script is just for the custom window icon rn
-    window.setIcon(Image.fromBytes(Assets.getBytes('images/otherShit/iconOG.png')));
-
 }
 
 var currentFPS:Int = 0;

@@ -1,9 +1,9 @@
 <!DOCTYPE codename-engine-dialogue-box>
-<dialoguebox sprite="default" y="75" textSound="pixel/pixelText" nextSound="pixel/clickText">
+<dialoguebox sprite="default" y="60" scale="0.9" textSound="pixel/pixelText" nextSound="pixel/clickText">
 	<!--
 		Node containing all text settings
 	-->
-	<text font="comic.ttf" x="239" y="218" width="768" color="#000000" size="32" antialiasing="false" borderStyle="shadow" borderColor="#00137F" shadowOffsetX="2" shadowOffsetY="2"/>
+	<text font="comic.ttf" x="239" y="220" width="768" color="#000000" size="32" antialiasing="false" borderStyle="shadow" borderColor="#00137F" shadowOffsetX="2" shadowOffsetY="2"/>
 
 	<!--
 		All positions for characters

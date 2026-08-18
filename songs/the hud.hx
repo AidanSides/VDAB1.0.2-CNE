@@ -40,9 +40,9 @@ function onPlayerHit(e) {
 }
 
 function onDadHit(e) {
-  e.preventStrumGlow();
+    e.preventStrumGlow();
 }
-	
+
 
 function create() {
 		
