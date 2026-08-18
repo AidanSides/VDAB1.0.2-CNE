@@ -1,7 +1,7 @@
 <!DOCTYPE codename-engine-stage>
-<stage startCamPosX="1000" startCamPosY="600" folder="otherShit/" zoom="0.9" name="bambiFarm">
+<stage startCamPosX="800" startCamPosY="600" folder="otherShit/" zoom="0.9" name="bambiFarm">
 
-<sprite x="-600" scroll="0.9" sprite="daveBgAssets" y="-200" name="bg" type="loop">
+<sprite x="-600" scroll="0.9" sprite="daveHouse" y="-200" name="bg" type="loop">
     <anim name="idle" anim="sky0000" loop="false"/>
 </sprite>
 
