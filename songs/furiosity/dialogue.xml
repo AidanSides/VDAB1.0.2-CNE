@@ -1,0 +1,37 @@
+<!DOCTYPE codename-engine-dialogue>
+<dialogue box="default-dave">
+	<!-- All characters -->
+	<char name="dave" position="left" />
+	<char name="bf" position="right" />
+
+	<!-- Lines -->
+	<line char="dave" changeMusic="scaryAmbience"> 
+		<format font="barcode.ttf">WHAT</format>
+	</line>
+
+	<line char="dave">
+		<format font="barcode.ttf">WHAT IS HAPPENING</format>
+	</line>
+
+	<line char="dave">
+		<format font="barcode.ttf">THE WORLD IS BECOMING THREE DIMENSIONAL</format>
+	</line>
+
+	<line char="dave">
+		<format font="barcode.ttf">NOT THE LAB AGAIN</format>
+	</line>
+
+	<line char="dave">
+		<format font="barcode.ttf">PLEASE HELP ME BECOME 2D</format> 
+	</line>
+
+	<line char="dave">
+		<format font="barcode.ttf">TAKE THE MICROPHONE AND RESTORE ME BACK TO THIS REALITY'S FORM</format>
+	</line>
+
+	<line char="bf">
+		B-beep..?
+	</line>
+
+
+</dialogue>
