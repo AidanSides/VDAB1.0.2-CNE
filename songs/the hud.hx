@@ -35,9 +35,11 @@ function onStrumCreation(e) {
     e.strum.x -= 48;
 }
 
-function onPlayerHit(e) {
-    e.showSplash = false;
+function onSplashShown(e) {
+	e.splash.kill();
+	e.cancel();
 }
+
 
 function onDadHit(e) {
     e.preventStrumGlow();
