@@ -1,31 +1,32 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="bambiSplitathon.png">
-	<!-- Created with Adobe Animate version 21.0.1.37179 -->
-	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="d 0000" x="0" y="0" width="298" height="394"/>
-	<SubTexture name="d 0001" x="298" y="0" width="298" height="394"/>
-	<SubTexture name="d 0002" x="596" y="0" width="298" height="394"/>
-	<SubTexture name="i 0000" x="894" y="0" width="298" height="394"/>
-	<SubTexture name="i 0001" x="1192" y="0" width="298" height="394"/>
-	<SubTexture name="i 0002" x="1490" y="0" width="298" height="394"/>
-	<SubTexture name="i 0003" x="0" y="394" width="298" height="394"/>
-	<SubTexture name="i 0004" x="298" y="394" width="298" height="394"/>
-	<SubTexture name="i 0005" x="1192" y="394" width="298" height="394"/>
-	<SubTexture name="i 0006" x="596" y="394" width="298" height="394"/>
-	<SubTexture name="i 0007" x="894" y="394" width="298" height="394"/>
-	<SubTexture name="i 0008" x="596" y="394" width="298" height="394"/>
-	<SubTexture name="i 0009" x="1192" y="394" width="298" height="394"/>
-	<SubTexture name="i 0010" x="298" y="394" width="298" height="394"/>
-	<SubTexture name="i 0011" x="0" y="394" width="298" height="394"/>
-	<SubTexture name="i 0012" x="1490" y="0" width="298" height="394"/>
-	<SubTexture name="i 0013" x="1192" y="0" width="298" height="394"/>
-	<SubTexture name="l 0000" x="1490" y="394" width="298" height="394"/>
-	<SubTexture name="l 0001" x="0" y="788" width="298" height="394"/>
-	<SubTexture name="l 0002" x="298" y="788" width="298" height="394"/>
-	<SubTexture name="r 0000" x="596" y="788" width="298" height="394"/>
-	<SubTexture name="r 0001" x="894" y="788" width="298" height="394"/>
-	<SubTexture name="r 0002" x="1192" y="788" width="298" height="394"/>
-	<SubTexture name="u 0000" x="1490" y="788" width="298" height="394"/>
-	<SubTexture name="u 0001" x="0" y="1182" width="298" height="394"/>
-	<SubTexture name="u 0002" x="298" y="1182" width="298" height="394"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Heroic Packer v0.1.1 https://heroicpacker.heroeyad.dev
+-->
+<TextureAtlas imagePath="bambiSplitathon.png" width="1122" height="1209" spritePadding="5" borderPadding="5">
+	<SubTexture name="d 0000" x="854" y="593" width="220" height="266" frameX="-33" frameY="-114" frameWidth="298" frameHeight="394"/>
+	<SubTexture name="d 0001" x="879" y="296" width="229" height="264" frameX="-26" frameY="-116" frameWidth="298" frameHeight="394"/>
+	<SubTexture name="d 0002" x="873" y="864" width="244" height="263" frameX="-14" frameY="-118" frameWidth="298" frameHeight="394"/>
+	<SubTexture name="i 0000" x="230" y="313" width="224" height="292" frameX="-40" frameY="-87" frameWidth="298" frameHeight="394"/>
+	<SubTexture name="i 0001" x="238" y="5" width="206" height="292" frameX="-47" frameY="-88" frameWidth="298" frameHeight="394"/>
+	<SubTexture name="i 0002" x="444" y="610" width="202" height="291" frameX="-46" frameY="-89" frameWidth="298" frameHeight="394"/>
+	<SubTexture name="i 0003" x="449" y="5" width="204" height="291" frameX="-45" frameY="-90" frameWidth="298" frameHeight="394"/>
+	<SubTexture name="i 0004" x="459" y="301" width="204" height="290" frameX="-45" frameY="-91" frameWidth="298" frameHeight="394"/>
+	<SubTexture name="i 0005" x="658" y="5" width="204" height="290" frameX="-45" frameY="-91" frameWidth="298" frameHeight="394"/>
+	<SubTexture name="i 0006" x="668" y="300" width="206" height="288" frameX="-44" frameY="-93" frameWidth="298" frameHeight="394"/>
+	<SubTexture name="i 0007" x="867" y="5" width="221" height="286" frameX="-43" frameY="-95" frameWidth="298" frameHeight="394"/>
+	<SubTexture name="i 0008" x="668" y="300" width="206" height="288" frameX="-44" frameY="-93" frameWidth="298" frameHeight="394"/>
+	<SubTexture name="i 0009" x="658" y="5" width="204" height="290" frameX="-45" frameY="-91" frameWidth="298" frameHeight="394"/>
+	<SubTexture name="i 0010" x="459" y="301" width="204" height="290" frameX="-45" frameY="-91" frameWidth="298" frameHeight="394"/>
+	<SubTexture name="i 0011" x="449" y="5" width="204" height="291" frameX="-45" frameY="-90" frameWidth="298" frameHeight="394"/>
+	<SubTexture name="i 0012" x="444" y="610" width="202" height="291" frameX="-46" frameY="-89" frameWidth="298" frameHeight="394"/>
+	<SubTexture name="i 0013" x="238" y="5" width="206" height="292" frameX="-47" frameY="-88" frameWidth="298" frameHeight="394"/>
+	<SubTexture name="l 0000" x="5" y="618" width="216" height="293" frameX="-23" frameY="-85" frameWidth="298" frameHeight="394"/>
+	<SubTexture name="l 0001" x="444" y="906" width="207" height="290" frameX="-23" frameY="-89" frameWidth="298" frameHeight="394"/>
+	<SubTexture name="l 0002" x="5" y="916" width="211" height="288" frameX="-23" frameY="-92" frameWidth="298" frameHeight="394"/>
+	<SubTexture name="r 0000" x="651" y="596" width="198" height="289" frameX="-73" frameY="-91" frameWidth="298" frameHeight="394"/>
+	<SubTexture name="r 0001" x="221" y="916" width="207" height="288" frameX="-74" frameY="-93" frameWidth="298" frameHeight="394"/>
+	<SubTexture name="r 0002" x="656" y="890" width="212" height="286" frameX="-76" frameY="-95" frameWidth="298" frameHeight="394"/>
+	<SubTexture name="u 0000" x="226" y="618" width="213" height="293" frameX="-42" frameY="-92" frameWidth="298" frameHeight="394"/>
+	<SubTexture name="u 0001" x="5" y="313" width="220" height="300" frameX="-39" frameY="-85" frameWidth="298" frameHeight="394"/>
+	<SubTexture name="u 0002" x="5" y="5" width="228" height="303" frameX="-35" frameY="-82" frameWidth="298" frameHeight="394"/>
 </TextureAtlas>

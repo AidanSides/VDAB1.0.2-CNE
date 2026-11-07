@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Heroic Packer v0.1.1 https://heroicpacker.heroeyad.dev
+-->
+<TextureAtlas imagePath="daveReactions.png" width="760" height="466" spritePadding="5" borderPadding="5">
+	<SubTexture name="backup" x="264" y="5" width="243" height="448" frameX="-31" frameY="-34" frameWidth="313" frameHeight="489"/>
+	<SubTexture name="end" x="512" y="5" width="243" height="448" frameX="-27" frameY="-33" frameWidth="316" frameHeight="489"/>
+	<SubTexture name="lookup" x="5" y="5" width="254" height="456" frameX="-8" frameY="-18" frameWidth="288" frameHeight="489"/>
+</TextureAtlas>

@@ -1,26 +1,27 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="bambiSheet.png">
-	<!-- Created with Adobe Animate version 21.0.1.37179 -->
-	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="MARCELLO NOTE DOWN0000" x="0" y="0" width="335" height="410"/>
-	<SubTexture name="MARCELLO NOTE DOWN0001" x="335" y="0" width="335" height="410"/>
-	<SubTexture name="MARCELLO idle dance0000" x="670" y="0" width="335" height="410"/>
-	<SubTexture name="MARCELLO idle dance0001" x="1005" y="0" width="335" height="410"/>
-	<SubTexture name="MARCELLO idle dance0002" x="1340" y="0" width="335" height="410"/>
-	<SubTexture name="MARCELLO idle dance0003" x="1675" y="0" width="335" height="410"/>
-	<SubTexture name="MARCELLO NOTE LEFT0000" x="0" y="410" width="335" height="410"/>
-	<SubTexture name="MARCELLO NOTE LEFT0001" x="335" y="410" width="335" height="410"/>
-	<SubTexture name="MARCELLO NOTE RIGHT0001" x="670" y="410" width="335" height="410"/>
-	<SubTexture name="MARCELLO NOTE RIGHT0002" x="1005" y="410" width="335" height="410"/>
-	<SubTexture name="MARCELLO NOTE UP0000" x="1340" y="410" width="335" height="410"/>
-	<SubTexture name="MARCELLO NOTE UP0001" x="1675" y="410" width="335" height="410"/>
-	<SubTexture name="MARCELLO MISS DOWN0000" x="0" y="1024" width="335" height="410"/>
-	<SubTexture name="MARCELLO MISS DOWN0001" x="335" y="1024" width="335" height="410"/>
-	<SubTexture name="MARCELLO dead0000" x="670" y="1024" width="335" height="410"/>
-	<SubTexture name="MARCELLO MISS LEFT0000" x="0" y="1434" width="335" height="410"/>
-	<SubTexture name="MARCELLO MISS LEFT0001" x="335" y="1434" width="335" height="410"/>
-	<SubTexture name="MARCELLO MISS RIGHT0001" x="670" y="1434" width="335" height="410"/>
-	<SubTexture name="MARCELLO MISS RIGHT0002" x="1005" y="1434" width="335" height="410"/>
-	<SubTexture name="MARCELLO MISS UP0000" x="1340" y="1434" width="335" height="410"/>
-	<SubTexture name="MARCELLO MISS UP0001" x="1675" y="1434" width="335" height="410"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Heroic Packer v0.1.1 https://heroicpacker.heroeyad.dev
+-->
+<TextureAtlas imagePath="bambi-old.png" width="1642" height="1048" spritePadding="5" borderPadding="5">
+	<SubTexture name="MARCELLO NOTE DOWN0000" x="5" y="735" width="219" height="308" frameX="-45" frameY="-57" frameWidth="335" frameHeight="410"/>
+	<SubTexture name="MARCELLO NOTE DOWN0001" x="1418" y="354" width="219" height="304" frameX="-45" frameY="-62" frameWidth="335" frameHeight="410"/>
+	<SubTexture name="MARCELLO idle dance0000" x="682" y="357" width="224" height="347" frameX="-59" frameY="-34" frameWidth="335" frameHeight="410"/>
+	<SubTexture name="MARCELLO idle dance0001" x="453" y="5" width="230" height="347" frameX="-55" frameY="-34" frameWidth="335" frameHeight="410"/>
+	<SubTexture name="MARCELLO idle dance0002" x="915" y="5" width="241" height="345" frameX="-43" frameY="-36" frameWidth="335" frameHeight="410"/>
+	<SubTexture name="MARCELLO idle dance0003" x="1161" y="354" width="252" height="342" frameX="-35" frameY="-39" frameWidth="335" frameHeight="410"/>
+	<SubTexture name="MARCELLO NOTE LEFT0000" x="1365" y="701" width="222" height="337" frameX="-31" frameY="-41" frameWidth="335" frameHeight="410"/>
+	<SubTexture name="MARCELLO NOTE LEFT0001" x="683" y="709" width="225" height="334" frameX="-32" frameY="-44" frameWidth="335" frameHeight="410"/>
+	<SubTexture name="MARCELLO NOTE RIGHT0001" x="911" y="356" width="222" height="346" frameX="-39" frameY="-31" frameWidth="335" frameHeight="410"/>
+	<SubTexture name="MARCELLO NOTE RIGHT0002" x="1392" y="5" width="226" height="344" frameX="-33" frameY="-34" frameWidth="335" frameHeight="410"/>
+	<SubTexture name="MARCELLO NOTE UP0000" x="229" y="363" width="219" height="353" frameX="-47" frameY="-32" frameWidth="335" frameHeight="410"/>
+	<SubTexture name="MARCELLO NOTE UP0001" x="5" y="370" width="219" height="360" frameX="-45" frameY="-25" frameWidth="335" frameHeight="410"/>
+	<SubTexture name="MARCELLO MISS DOWN0000" x="229" y="721" width="219" height="308" frameX="-45" frameY="-58" frameWidth="335" frameHeight="410"/>
+	<SubTexture name="MARCELLO MISS DOWN0001" x="913" y="707" width="219" height="304" frameX="-45" frameY="-63" frameWidth="335" frameHeight="410"/>
+	<SubTexture name="MARCELLO dead0000" x="453" y="357" width="224" height="347" frameX="-59" frameY="-35" frameWidth="335" frameHeight="410"/>
+	<SubTexture name="MARCELLO MISS LEFT0000" x="1138" y="701" width="222" height="337" frameX="-31" frameY="-42" frameWidth="335" frameHeight="410"/>
+	<SubTexture name="MARCELLO MISS LEFT0001" x="453" y="709" width="225" height="334" frameX="-32" frameY="-45" frameWidth="335" frameHeight="410"/>
+	<SubTexture name="MARCELLO MISS RIGHT0001" x="688" y="5" width="222" height="346" frameX="-39" frameY="-32" frameWidth="335" frameHeight="410"/>
+	<SubTexture name="MARCELLO MISS RIGHT0002" x="1161" y="5" width="226" height="344" frameX="-33" frameY="-35" frameWidth="335" frameHeight="410"/>
+	<SubTexture name="MARCELLO MISS UP0000" x="229" y="5" width="219" height="353" frameX="-47" frameY="-33" frameWidth="335" frameHeight="410"/>
+	<SubTexture name="MARCELLO MISS UP0001" x="5" y="5" width="219" height="360" frameX="-45" frameY="-26" frameWidth="335" frameHeight="410"/>
 </TextureAtlas>
